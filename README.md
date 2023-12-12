@@ -1,6 +1,11 @@
 # URLZilla
 URLZilla is a Python web crawling tool designed for bug hunting adventures. Unleash the beast and explore the vast web landscape, uncovering URLs and discovering hidden treasures on your bug hunting journey.
 
+
+![image](https://github.com/0xKunAlx0/urlzilla/assets/49309404/006c1932-b05a-4508-9efa-e9365db60a5a)
+
+
+
 Web Crawler made by KunAl
 
 options:
