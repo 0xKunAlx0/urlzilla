@@ -3,10 +3,13 @@
 Web Crawler made by KunAl
 
 options:
-  -h, --help            show this help message and exit
-  -u URL, --url URL     Website URL (predefined with 'https://' or 'http://')
+
+-  -h, --help            show this help message and exit
+-    -u URL, --url URL     Website URL (predefined with 'https://' or 'http://')
+-    
   -d DEPTH, --depth DEPTH
                         Maximum depth for crawling (default: 3)
+     
   -o OUTPUT, --output OUTPUT
                         Output file to save the results
 
