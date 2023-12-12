@@ -13,9 +13,7 @@ options:
 
   -o OUTPUT, --output OUTPUT
                         Output file to save the results
-                        
 
-URLZilla is a Python web crawling tool designed for bug hunting adventures. Unleash the beast and explore the vast web landscape, uncovering URLs and discovering hidden treasures on your bug hunting journey.
 
 ## Features
 
