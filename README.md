@@ -1,4 +1,5 @@
 # URLZilla
+URLZilla is a Python web crawling tool designed for bug hunting adventures. Unleash the beast and explore the vast web landscape, uncovering URLs and discovering hidden treasures on your bug hunting journey.
 
 Web Crawler made by KunAl
 
@@ -9,9 +10,10 @@ options:
 -    
   -d DEPTH, --depth DEPTH
                         Maximum depth for crawling (default: 3)
-     
+
   -o OUTPUT, --output OUTPUT
                         Output file to save the results
+                        
 
 URLZilla is a Python web crawling tool designed for bug hunting adventures. Unleash the beast and explore the vast web landscape, uncovering URLs and discovering hidden treasures on your bug hunting journey.
 
