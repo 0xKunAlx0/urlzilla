@@ -1,13 +1,4 @@
 # URLZilla
- _    _ _____  _      _______ _ _       
-| |  | |  __ \| |    |___  (_) | |      
-| |  | | |__) | |       / / _| | | __ _ 
-| |  | |  _  /| |      / / | | | |/ _` |
-| |__| | | \ \| |____ / /__| | | | (_| |
- \____/|_|  \_\______/_____|_|_|_|\__,_|
-                                        
-                                      - Created By KunAl 
-usage: urlzilla.py [-h] -u URL [-d DEPTH] [-o OUTPUT]
 
 Web Crawler made by KunAl
 
@@ -66,4 +57,6 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 - Hat tip to Beautiful Soup for web scraping magic.
 - Inspired by bug hunters and web explorers worldwide.
+
+  
 -------------Happy bug hunting with URLZilla! 🦖🕷️🌐-------------
