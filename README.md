@@ -1,7 +1,23 @@
-# urlzilla
 # URLZilla
+ _    _ _____  _      _______ _ _       
+| |  | |  __ \| |    |___  (_) | |      
+| |  | | |__) | |       / / _| | | __ _ 
+| |  | |  _  /| |      / / | | | |/ _` |
+| |__| | | \ \| |____ / /__| | | | (_| |
+ \____/|_|  \_\______/_____|_|_|_|\__,_|
+                                        
+                                      - Created By KunAl 
+usage: urlzilla.py [-h] -u URL [-d DEPTH] [-o OUTPUT]
 
+Web Crawler made by KunAl
 
+options:
+  -h, --help            show this help message and exit
+  -u URL, --url URL     Website URL (predefined with 'https://' or 'http://')
+  -d DEPTH, --depth DEPTH
+                        Maximum depth for crawling (default: 3)
+  -o OUTPUT, --output OUTPUT
+                        Output file to save the results
 
 URLZilla is a Python web crawling tool designed for bug hunting adventures. Unleash the beast and explore the vast web landscape, uncovering URLs and discovering hidden treasures on your bug hunting journey.
 
@@ -42,5 +58,12 @@ python urlzilla.py -u https://example.com -d 3 -o output.txt
 ```
 
 
-Contributing
+### Contributing
+
 Contributions are welcome! Feel free to open issues or pull requests.
+
+### Acknowledgments
+
+- Hat tip to Beautiful Soup for web scraping magic.
+- Inspired by bug hunters and web explorers worldwide.
+-------------Happy bug hunting with URLZilla! 🦖🕷️🌐-------------
