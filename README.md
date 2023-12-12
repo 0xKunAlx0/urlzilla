@@ -7,8 +7,6 @@ URLZilla is a Python web crawling tool designed for bug hunting adventures. Unle
 
 
 
-Web Crawler made by KunAl
-
 options:
 
 -  -h, --help            show this help message and exit
